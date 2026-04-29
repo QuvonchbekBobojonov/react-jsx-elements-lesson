@@ -202,8 +202,8 @@ export default function App() {
               <GraduationCap className="w-6 h-6" />
             </div>
             <div>
-              <h1 className="font-display font-bold text-lg text-slate-900 leading-tight">React & JSX Darsligi</h1>
-              <p className="text-[10px] uppercase tracking-wider text-slate-400 font-bold">8-Sinf Informatsiya</p>
+              <h1 className="font-display font-bold text-lg text-slate-900 leading-tight">React: JSX va Elementlar</h1>
+              <p className="text-[10px] uppercase tracking-wider text-slate-400 font-bold">8-Sinf Interaktiv Darslik</p>
             </div>
           </div>
           <div className="text-sm font-bold text-brand-600 bg-brand-50 px-3 py-1 rounded-lg">

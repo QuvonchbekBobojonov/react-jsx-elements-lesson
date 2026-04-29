@@ -1,6 +1,6 @@
 {
-  "name": "React-Darslik: 8-Sinf",
-  "description": "React asoslari, JSX qoidalari va komponentlar bo'yicha interaktiv o'quv qo'llanmasi.",
+  "name": "React: JSX va Elementlar (8-Sinf)",
+  "description": "8-sinflar uchun React asoslari, JSX qoidalari va elementlar bo'yicha interaktiv darslik.",
   "requestFramePermissions": [],
   "majorCapabilities": []
 }
